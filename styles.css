@@ -109,7 +109,7 @@ img {
     line-height: 130%;
   }
 }
-@media screen and (min-width:375px)  and (max-width: 829px)  {
+@media screen and (max-width: 829px)  {
   h1 {
     width: 170.08px;
     height: 43.34px;
@@ -140,7 +140,7 @@ img {
     margin-left: 101px;
     margin-top: 338px;
     }
-    .bottom-paragraph{
+.bottom-paragraph{
 width: 86px;
 height: 18px;
 margin-left: 35px;
